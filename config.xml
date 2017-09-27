@@ -8,7 +8,7 @@
     <description>
         O Entregador
     </description>
-    <author email="hallysonjp@gmail.com" href="http://hrwebdesign.com">
+    <author email="hallysonjp@gmail.com" href="http://cordova.io">
         hrwebdesign.com
     </author>             
     <content src="index.html" />
@@ -18,7 +18,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
     
     <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.10.0" >
-      <param name="SENDER_ID" value="93275196621" />
+      <param name="SENDER_ID" value="" />
     </gap:plugin>
 	
     <gap:plugin name="cordova-plugin-device" source="npm" />		
